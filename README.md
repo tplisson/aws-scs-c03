@@ -61,4 +61,5 @@ Private notes, labs and progress tracking for the AWS Certified Security - Speci
 - AWS Skill Builder: official SCS-C03 practice question set and exam prep plan.
 - AWS service documentation, reading Troubleshooting and Security best practices sections first.
 
-> [!Note]  The per-domain task statements in the lab guides were taken from a secondary summary of the official exam guide. Verify them against the official domain pages and fix any drift.
+> [!NOTE]
+> The per-domain task statements in the lab guides were taken from a secondary summary of the official exam guide. Verify them against the official domain pages and fix any drift.
