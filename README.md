@@ -1,5 +1,9 @@
 # AWS Certified Security - Specialty (SCS-C03): Exam Prep Notes
 
+<a align="center" href="https://aws.amazon.com/certification/certified-security-specialty/">
+  <img src="images/aws-scs-badge.png" {:height="25%" width="25%"}>
+</a>
+
 Private notes, labs and progress tracking for the AWS Certified Security - Specialty exam (SCS-C03). The approach is hands-on first: every exam task statement that can be practised in a sandbox has a lab, and every lab ends with a "break it, then fix it" step.
 
 ## Exam snapshot
@@ -57,4 +61,4 @@ Private notes, labs and progress tracking for the AWS Certified Security - Speci
 - AWS Skill Builder: official SCS-C03 practice question set and exam prep plan.
 - AWS service documentation, reading Troubleshooting and Security best practices sections first.
 
-> Note: the per-domain task statements in the lab guides were taken from a secondary summary of the official exam guide. Verify them against the official domain pages and fix any drift.
+> [!Note]  The per-domain task statements in the lab guides were taken from a secondary summary of the official exam guide. Verify them against the official domain pages and fix any drift.
